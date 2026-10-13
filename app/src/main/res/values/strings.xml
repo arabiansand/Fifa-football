@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Football Duel</string>
+    <string name="quick_match">Quick Match</string>
+    <string name="tournament_mode">Tournament</string>
+    <string name="penalty_shootout">Penalty Shootout</string>
+    <string name="team_customizer">Team Kits</string>
+    <string name="match_history">Match Stats</string>
+</resources>

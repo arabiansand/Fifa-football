@@ -1,0 +1,6 @@
+{
+  "name": "Football Duel",
+  "description": "Fast-paced 1v1 arcade football match with stadium night floodlights, physics ball dynamics, AI goalkeepers, tournaments, penalty shootouts, and customizable teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
